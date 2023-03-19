@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Tugas4 javascript Pipit Pitria</title>
+    </head>
+    <body>
+        <form id="Login">
+            <label for="">username</label>
+            <input type="text" id="username">
+            <br><br>
+            <label for="">password</label>
+            <input type="text" id="password">
+            <br><br>
+            <input type="button" onclick="Login" value="Login">
+
+        </form>
+        <script type="text" src="JS/skripku.js"></script>
+    </body>
+</html>
